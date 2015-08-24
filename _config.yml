@@ -1,0 +1,39 @@
+name: Jekyll Video
+description: Template for a video blog.
+url: 'https://jekyll-video.com'
+baseurl: '/jekyll-video'
+email: jekyll-video@example.com
+twitter: https://twitter.com/jekyll-video
+youtube: https://www.youtube.com/jekyll-video
+facebook: https://www.facebook.com/jekyll-video
+google_analytics: 'UA-00000000-1'
+
+################################################################
+################################################################
+gems:
+  - jekyll-sitemap
+sass:
+  sass_dir: /assets/_sass
+  style: :compressed
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - CNAME
+  - .gitignore
+collections:
+  videos:
+    output: true
+    permalink: /:path/
+defaults:
+  -
+    scope:
+      path: ''
+      type: posts
+    values:
+      layout: post
+  -
+    scope:
+      path: ''
+      type: videos
+    values:
+      layout: video
