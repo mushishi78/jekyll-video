@@ -1,8 +1,8 @@
 ---
-id: MapUVzHhov8
 title: What type of bees?
-tags: [Q&A]
+youtube_id: MapUVzHhov8
 date: 2015-02-16
+tags: [Q&A]
 ---
 Beginner beekeepers can often feel overwhelmed with choices when it comes to buying bees. In this Q&A I attempt to answer the question about the differences between the variety of bees on the market in the US and which ones a beginner should buy.
 

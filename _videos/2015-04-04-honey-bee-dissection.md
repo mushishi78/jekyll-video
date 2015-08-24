@@ -1,8 +1,8 @@
 ---
-id: 82jyphxqoiY
 title: Honey Bee Dissection
-tags: [Journey, University, Dissection]
+youtube_id: 82jyphxqoiY
 date: 2015-04-04
+tags: [Journey, University, Dissection]
 ---
 As part of the Journey program offered by the Oregon State University Master Beekeeping course, I got to spend some time with their instructors dissecting bees under a microscope. This was an excellent opportunity to see, first hand, some of the organs and anatomy of the honey bee.
 
